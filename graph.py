@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 12 15:04:56 2016
-
-@author: guttag, revised egrimson
-"""
 
 class Node(object):
     def __init__(self, name):
